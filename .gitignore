@@ -196,3 +196,4 @@ desktop/release/
 desktop-eos-helper/bin/
 desktop-eos-helper/obj/
 desktop-eos-helper/publish/
+web/.vite/
