@@ -53,3 +53,9 @@ msgstr "Cold and concise: Prefer short sentences; make every word count like met
 
 msgid "story_style.fine_line_drawing"
 msgstr "Fine line drawing: Add no decoration; catch subtle movement and expression so the spirit emerges through precise detail."
+
+msgid "story_style.sensual_passion"
+msgstr "Sensual passion: Deeply portray physical sensation and emotional tension; focus on atmosphere, touch, and intimate interaction; do not shy away from explicit content; cultivate through desire."
+
+msgid "story_style.raw_eros"
+msgstr "Raw eroticism: Write directly and unapologetically; describe desire and physical intimacy in detail; present the art of dual cultivation and sensual entanglements in the xianxia world in literary form."

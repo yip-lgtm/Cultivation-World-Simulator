@@ -51,10 +51,12 @@ msgstr "Target within interaction range; cannot execute consecutively"
 
 msgid "dual_cultivation_story_prompt"
 msgstr ""
-"Two cultivators develop feelings during dual cultivation. Describe an "
-"elegant and subtle dual cultivation experience with implied romance, "
-"reflecting their personalities, realm differences, and sweet romantic "
-"moments. Do not mention numerical experience values."
+"Depict a detailed dual cultivation scene between two dao companions, deeply "
+"portraying emotional tension, physical intimacy, spiritual energy fusion, and "
+"cultivation bonds between them. Use vivid, explicit, and intense prose to "
+"capture desire, passion, and power resonance. Focus on atmosphere, sensory "
+"details, and emotional depth, showcasing the profound art of dual cultivation "
+"in the xianxia world. Do not mention numerical experience or game values."
 
 # Action: Educate
 msgid "educate_action_name"

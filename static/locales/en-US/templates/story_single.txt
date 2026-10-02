@@ -18,9 +18,10 @@ The result is:
 {res}
 
 Requirements:
-- If an event participant is yao, the story text must show racial traits through movement, senses, rhythm, or value judgment. Racial description takes priority over ordinary persona; do not write yao as human cultivators with only a race label changed.
+- If event participants are yao, the story must reflect their racial traits in movement, senses, pacing, and value judgments; racial description takes priority over ordinary persona description. Do not write yao as humans with only a race label changed.
+- Permitted: sensual descriptions of intimate interaction, emotional tension, and physical sensation. No need to avoid adult content. Depict the emotional entanglement and art of dual cultivation in the xianxia world with literary prose.
 
-Note: Return the results in JSON format only, in the format:
+Note: Return JSON only, format as follows:
 {{
     "thinking": ..., // Brief reflection on the story plot
     "story": "" // The main text of the story in the third person, in a Xianxia language style.

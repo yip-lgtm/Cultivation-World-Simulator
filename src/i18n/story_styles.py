@@ -24,6 +24,8 @@ STORY_STYLE_KEYS: tuple[str, ...] = (
     "story_style.gorgeous_and_bizarre",
     "story_style.cold_and_concise",
     "story_style.fine_line_drawing",
+    "story_style.sensual_passion",
+    "story_style.raw_eros",
 )
 
 

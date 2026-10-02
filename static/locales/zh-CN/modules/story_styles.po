@@ -53,3 +53,9 @@ msgstr "冷峻简练：以短句为主，字字有力，如金石相击，不作
 
 msgid "story_style.fine_line_drawing"
 msgstr "白描工笔：不加粉饰，捕捉细微动作与神情，以真实细节传神。"
+
+msgid "story_style.sensual_passion"
+msgstr "情欲缠绵：细腻刻画身体感受与情感张力，注重氛围、触感与亲密互动，不避讳露骨描写，以情入道。"
+
+msgid "story_style.raw_eros"
+msgstr "直白情色：笔墨直入，不加掩饰，描写情欲与身体交融之细节，文学化呈现修仙世界的双修奥义与欲念缠绵。"

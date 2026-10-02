@@ -36,7 +36,7 @@ msgstr "目标在交互范围内，且当前非道侣关系。"
 
 msgid "confess_story_prompt"
 msgstr ""
-"描述{initiator}向{target}表白的过程，包含内心的悸动、场景的氛围。如果接受，则描绘两情相悦结为道侣的浪漫；如果拒绝，则描绘婉拒与遗憾。"
+"细腻刻画{initiator}向{target}表白时的情感张力与氛围营造，描写内心炽热的悸动、呼吸急促、眼神交融与身体的靠近。如果接受，则描绘两情相悦、道侣结合的浪漫缠绵；如果拒绝，则描绘心碎与遗憾。"
 
 # MutualAction: Conversation
 msgid "conversation_action_name"

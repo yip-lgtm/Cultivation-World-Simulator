@@ -37,7 +37,7 @@ class DualCultivation(InvitationAction):
     PARAMS = {"target_avatar": "AvatarName"}
     RESPONSE_ACTIONS = ["Accept", "Reject"]
     # 双修的社交冷却：避免频繁请求
-    ACTION_CD_MONTHS: int = 3
+    ACTION_CD_MONTHS: int = 1
     # 双修是大事（长期记忆）
     IS_MAJOR: bool = True
 
