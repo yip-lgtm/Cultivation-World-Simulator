@@ -59,3 +59,6 @@ msgstr "Sensual passion: Deeply portray physical sensation and emotional tension
 
 msgid "story_style.raw_eros"
 msgstr "Raw eroticism: Write directly and unapologetically; describe desire and physical intimacy in detail; present the art of dual cultivation and sensual entanglements in the xianxia world in literary form."
+
+msgid "story_style.bloody_violence"
+msgstr "Bloody violence: Render cruel, gory, and violent battle scenes; flying swords decapitate, blades gut, flesh and bone fly, souls scatter; portray the law of the jungle in the xianxia world. Do not shy away from graphic details of dismemberment and rivers of blood."

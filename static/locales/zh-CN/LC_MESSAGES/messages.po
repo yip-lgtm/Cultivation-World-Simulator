@@ -3092,7 +3092,7 @@ msgid "occupy_requirements"
 msgstr "目标在交互范围内；不能连续执行"
 
 msgid "occupy_story_prompt"
-msgstr "这是一场争夺洞府的战斗。不要出现具体血量或伤害数值。"
+msgstr "这是一场争夺洞府的血腥战斗，刀光剑影，鲜血飞溅。允许对战斗中的血腥场面、伤痕、死亡进行细腻露骨的描写，展现修仙世界中弱肉强食的残酷法则。不要出现具体血量或伤害数值。"
 
 # MutualAction: Spar
 msgid "spar_action_name"
@@ -3105,7 +3105,7 @@ msgid "spar_requirements"
 msgstr "交互范围内可互动；不能连续执行"
 
 msgid "spar_story_prompt"
-msgstr "这是两人之间的友好切磋，点到为止，没有真正的伤害。重点描写双方招式的精妙和互相的印证启发。不要出现血腥或重伤描述。"
+msgstr "这是一场修仙者之间的生死较量，刀光剑影，法术交辉。允许对战斗中的血腥场面、伤痕进行细腻露骨的描写，展现修仙世界中的残酷搏杀与生死一瞬。重点描写双方招式的凌厉与杀意的碰撞。"
 
 msgid "spirit stones"
 msgstr "灵石"
