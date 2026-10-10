@@ -1,0 +1,10 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "installCommand": "npm install",
+  "framework": "vite",
+  "rewrites": [
+    { "source": "/api/(.*)", "destination": "https://YOUR_BACKEND_URL/api/$1" },
+    { "source": "/ws", "destination": "https://YOUR_BACKEND_URL/ws" }
+  ]
+}
