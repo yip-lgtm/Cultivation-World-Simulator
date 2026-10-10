@@ -1,0 +1,1 @@
+import{d as a,c as t,G as n,o}from"./game-panels-D65m0_zY.js";const c=a({__name:"SystemMenuStartTab",props:{gameInitialized:{type:Boolean}},setup(e){return(r,l)=>(o(),t(n,{readonly:e.gameInitialized},null,8,["readonly"]))}});export{c as default};

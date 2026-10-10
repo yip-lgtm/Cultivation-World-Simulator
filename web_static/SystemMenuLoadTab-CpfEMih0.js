@@ -1,0 +1,1 @@
+import{d as s,c as a,S as n,o as m}from"./game-panels-D65m0_zY.js";const p=s({__name:"SystemMenuLoadTab",emits:["close"],setup(r,{emit:o}){const t=o;return(c,e)=>(m(),a(n,{mode:"load",onClose:e[0]||(e[0]=l=>t("close"))}))}});export{p as default};

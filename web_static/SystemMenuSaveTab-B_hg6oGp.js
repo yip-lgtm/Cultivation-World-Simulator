@@ -1,0 +1,1 @@
+import{d as t,c as a,S as n,o as m}from"./game-panels-D65m0_zY.js";const i=t({__name:"SystemMenuSaveTab",emits:["close"],setup(r,{emit:o}){const s=o;return(c,e)=>(m(),a(n,{mode:"save",onClose:e[0]||(e[0]=l=>s("close"))}))}});export{i as default};
