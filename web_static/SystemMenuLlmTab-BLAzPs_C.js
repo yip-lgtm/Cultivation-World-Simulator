@@ -1,0 +1,1 @@
+import{d as o,c as a,L as m,o as s}from"./game-panels-D65m0_zY.js";const c=o({__name:"SystemMenuLlmTab",emits:["llm-ready"],setup(r,{emit:n}){const t=n;return(l,e)=>(s(),a(m,{onConfigSaved:e[0]||(e[0]=i=>t("llm-ready"))}))}});export{c as default};
